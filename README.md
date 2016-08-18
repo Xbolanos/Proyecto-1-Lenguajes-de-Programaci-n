@@ -7,8 +7,8 @@ Usage
 ===========
 La funcion 'procesarImg' contiene como parametros:
 - direccion: se debe de poner la dirección del video en formato .avi.
-- direccionFinal:Se indica en que carpeta se desea guardar el video final.
-- imagInicial:Se indica en que carpeta se quiere guardar cada frame del video.
+- direccionFinal:Se indica en que carpeta se desea guardar el video final pero siempre se le debe de agregar \nombrevideo.avi .
+Ambas direcciones se deben de realizar entre comillas simples.
 
 
 Known Issues
